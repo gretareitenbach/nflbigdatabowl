@@ -1,0 +1,15 @@
+# Environment
+.venv/
+
+# Data - VERY IMPORTANT
+# Do not commit large data files to Git.
+data/
+*.csv
+*.parquet
+
+# IDE / OS files
+.vscode/
+.DS_Store
+
+# Notebook checkpoints
+.ipynb_checkpoints/
