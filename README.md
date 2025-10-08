@@ -2,21 +2,6 @@
 
 This repository contains the code for Project Oracle, a deep learning model developed for the NFL Big Data Bowl 2026. The project's core is a Transformer-based model named `OracleTransformer`, designed to predict the trajectories of NFL players during passing plays.
 
-## Table of Contents
-
-  - [Project Goal](https://www.google.com/search?q=%23project-goal)
-  - [Repository Structure](https://www.google.com/search?q=%23repository-structure)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-      - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      - [Installation](https://www.google.com/search?q=%23installation)
-  - [Usage](https://www.google.com/search?q=%23usage)
-      - [1. Data Processing](https://www.google.com/search?q=%231-data-processing)
-      - [2. Model Training](https://www.google.com/search?q=%232-model-training)
-      - [3. Inference](https://www.google.com/search?q=%233-inference)
-  - [Exploratory Data Analysis](https://www.google.com/search?q=%23exploratory-data-analysis)
-  - [Model Architecture](https://www.google.com/search?q=%23model-architecture)
-  - [Key Scripts](https://www.google.com/search?q=%23key-scripts)
-
 ## Project Goal
 
 The primary objective of this project is to predict the movement of all 22 players on the field for the 5-second interval immediately following the quarterback's pass release. The model takes pre-throw player tracking data as input and generates the predicted paths for all players.
